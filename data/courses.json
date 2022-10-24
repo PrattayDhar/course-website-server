@@ -1,6 +1,6 @@
 [
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a1",
         "category_id": "01",
         "rating": {
             "number": 4.5,
@@ -15,7 +15,7 @@
         "details": "The more time you spend developing your skills, the faster you can become a web developer. The good news is that web development generally uses light-weight code that is easier to learn than many other languages. If dedicated, you can learn the basics of web development in a couple of months. "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a2",
         "category_id": "01",
         "rating": {
             "number": 4.5,
@@ -30,7 +30,7 @@
         "details": "It's hard work that requires a lot of patience and perseverance but the good news is that you don't have to attend college or a classroom course to become a digital marketing expert. You don't even have to spend your time searching Google for learning resources."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a3",
         "category_id": "01",
         "rating": {
             "number": 4.5,
@@ -45,7 +45,7 @@
         "details": "Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a4",
         "category_id": "02",
         "rating": {
             "number": 4.5,
@@ -60,7 +60,7 @@
         "details": "Python is a popular general purpose programming language used for both large and small-scale applications. With Python, you can discover how to bridge web development and data analytics."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a5",
         "category_id": "02",
         "rating": {
             "number": 4.5,
@@ -75,7 +75,7 @@
         "details": "Java is a well-structured, object-oriented language, which can be considered easy for beginners. You can master it quite rapidly, as there are many processes that run automatically. You don't have to delve into “how the things work in there” too deep."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a6",
         "category_id": "02",
         "rating": {
             "number": 4.5,
@@ -90,7 +90,7 @@
         "details": "C++ provides programmers a high level of management over system resources and memory. Certificate course in C++ is a certification course that is of few months to one year length. This is a basic course that aims at providing basic information and skills of C++ language to the scholars"
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a7",
         "category_id": "03",
         "rating": {
             "number": 4.5,
@@ -105,7 +105,7 @@
         "details": "The course will take about 9 hours to complete, plus will you need additional time to test yourselves to ensure that you have learned the necessary skills. You should take this course if: you want to learn more about Microsoft Word, or. you want to become a certified Microsoft Office Specialist."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a8",
         "category_id": "03",
         "rating": {
             "number": 4.5,
@@ -120,7 +120,7 @@
         "details": "Microsoft offers free Excel classes online on edX to learn both fundamental and advanced Excel skills. Introduction to Data Analysis using Excel is a 4-week, self-paced online course perfect for learners with little or no prior experience using the software"
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a18",
         "category_id": "03",
         "rating": {
             "number": 4.5,
@@ -135,7 +135,7 @@
         "details": "Getting Started with PowerPoint Get to know the PowerPoint interface. Understanding OneDrive Learn all about working with your Microsoft account and OneDrive. Creating and Opening Presentations Learn all about creating and opening presentations."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a9",
         "category_id": "04",
         "rating": {
             "number": 4.5,
@@ -150,7 +150,7 @@
         "details": "The skill of public speaking is often considered very hard because of the internal and externals pressures that float over us such as our self-efficacy, judgments of others, the physiology of our body when perceiving a new stimulus, lack of confidence, and a mix of emotions such as fear and apprehensions."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a10",
         "category_id": "04",
         "rating": {
             "number": 4.5,
@@ -165,7 +165,7 @@
         "details": "Studying for a business management degree allows you to develop a broad understanding of business organisations and provides you with subject-specific knowledge in areas such as markets, customers, finance, operations, communication, information technology and business policy and strategy."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a11",
         "category_id": "04",
         "rating": {
             "number": 4.5,
@@ -180,7 +180,7 @@
         "details": "Many believe that good presenters are born, not made. This is simply not true. Sure, some people are more relaxed and comfortable speaking in front of others, but everyone can learn the skills and techniques they need to increase their level of confidence and performance when presenting."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a12",
         "category_id": "05",
         "rating": {
             "number": 4.5,
@@ -195,7 +195,7 @@
         "details": "Math is also necessary to understand algorithms complexity, but you are not going to invent new algorithms, at least in the first few years of programming. What you need to be good at, however, is problem solving."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a13",
         "category_id": "05",
         "rating": {
             "number": 4.5,
@@ -210,7 +210,7 @@
         "details": "This course investigates abstract data types (ADTs), recursion, algorithms for searching and sorting, and basic algorithm analysis. ADTs to be covered include lists, stacks, queues, priority queues, trees, sets, and dictionaries."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a14",
         "category_id": "05",
         "rating": {
             "number": 4.5,
@@ -225,7 +225,7 @@
         "details": "Networking is the field of computer science that allows computers to exchange data or information. Data can be exchanged either using cable media or wireless media. Internet is the largest example of computer networking. Also Check: Popular Engineering Courses."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a15",
         "category_id": "06",
         "rating": {
             "number": 4.5,
@@ -240,7 +240,7 @@
         "details": "Facebook marketing course is one of the best for learning Facebook Ads for beginners. By the end of this course, you will learn how to establish an online presence, create engaging posts, build a growing Facebook community, and manage social media accounts efficiently."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a16",
         "category_id": "06",
         "rating": {
             "number": 4.5,
@@ -255,7 +255,7 @@
         "details": "Instagram Marketing Strategy Course (Hubspot) This free course, Instagram Marketing Strategy Course, covers how to build and implement a successful Instagram marketing strategy and it is aimed at social media marketers, marketing professionals, and content creators."
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a17",
         "category_id": "06",
         "rating": {
             "number": 4.5,

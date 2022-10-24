@@ -19,18 +19,16 @@ app.get('/course', (req, res) => {
 })
 app.get('/cetagory/:id', (req, res) => {
     const id = req.params.id;
-    const cetagory_course = news.filter(n => n.category_id == id)
+    const cetagory_course = course.filter(n => n.category_id == id)
     res.send(cetagory_course)
 
 })
-app.get('/news/:id', (req, res) => {
+app.get('/course/:id', (req, res) => {
     const id = req.params.id;
-    const selectedcourse = news.find(n => n._id == id)
-    res.send(selectedNews)
+    const selectedcourse = course.find(n => n._id == id)
+    res.send(selectedcourse)
 
 })
-
-
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
