@@ -23,6 +23,12 @@ app.get('/cetagory/:id', (req, res) => {
     res.send(cetagory_course)
 
 })
+app.get('/news/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedcourse = news.find(n => n._id == id)
+    res.send(selectedNews)
+
+})
 
 
 
