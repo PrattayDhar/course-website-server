@@ -17,6 +17,12 @@ app.get('/course-cetagory', (req, res) => {
 app.get('/course', (req, res) => {
     res.send(course)
 })
+app.get('/cetagory/:id', (req, res) => {
+    const id = req.params.id;
+    const cetagory_course = news.filter(n => n.category_id == id)
+    res.send(cetagory_course)
+
+})
 
 
 
