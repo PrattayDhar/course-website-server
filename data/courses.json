@@ -253,20 +253,5 @@
         },
         "image_url": "https://learnadoperations.com/wp-content/uploads/2020/09/Insta.jpg",
         "details": "Instagram Marketing Strategy Course (Hubspot) This free course, Instagram Marketing Strategy Course, covers how to build and implement a successful Instagram marketing strategy and it is aimed at social media marketers, marketing professionals, and content creators."
-    },
-    {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "06",
-        "rating": {
-            "number": 4.5,
-            "badge": "Excellent"
-        },
-        "total_view": 488,
-        "title": "Linkedin Marketing ",
-        "author": {
-            "name": "Maruf Muzumder"
-        },
-        "image_url": "https://articles.connectnigeria.com/wp-content/uploads/2022/04/LinkedIn-Marketing.jpg",
-        "details": "Are marketing certifications worth it? Yes, a marketing certification proves that you are an expert in your chosen field. A marketing certificate can help you land that next job or big promotion you are hoping for, not to mention help you hone your marketing skills for the real world."
     }
 ]
