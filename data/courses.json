@@ -1,0 +1,272 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Web Development",
+        "author": {
+            "name": "Hasan Chowdhury"
+        },
+        "image_url": "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg",
+        "details": "The more time you spend developing your skills, the faster you can become a web developer. The good news is that web development generally uses light-weight code that is easier to learn than many other languages. If dedicated, you can learn the basics of web development in a couple of months. "
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Digital Marketing",
+        "author": {
+            "name": "Himangshu Ratan Basak"
+        },
+        "image_url": "https://solutionsreview.com/marketing-automation/files/2020/12/Digital-Marketing-Courses-And-Programs-Training-For-2021.jpg",
+        "details": "It's hard work that requires a lot of patience and perseverance but the good news is that you don't have to attend college or a classroom course to become a digital marketing expert. You don't even have to spend your time searching Google for learning resources."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Graphics Design",
+        "author": {
+            "name": "Wafia Mim"
+        },
+        "image_url": "https://coderstrustbd.com/wp-content/uploads/2021/06/GD.jpg",
+        "details": "Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Python",
+        "author": {
+            "name": "Shimul Dey"
+        },
+        "image_url": "https://www.fossmint.com/wp-content/uploads/2020/03/Udemy-Advance-Python-Learning-Courses.png",
+        "details": "Python is a popular general purpose programming language used for both large and small-scale applications. With Python, you can discover how to bridge web development and data analytics."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Java",
+        "author": {
+            "name": "Shithi Saha"
+        },
+        "image_url": "https://profoundedutech.com/blog/wp-content/uploads/2019/08/course-java.png",
+        "details": "Java is a well-structured, object-oriented language, which can be considered easy for beginners. You can master it quite rapidly, as there are many processes that run automatically. You don't have to delve into “how the things work in there” too deep."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "C++",
+        "author": {
+            "name": "Mehadi Hasan"
+        },
+        "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--Tu2z9cvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/696/1%2A6UpwEDOw04H5fKyaMGXpSw.png",
+        "details": "C++ provides programmers a high level of management over system resources and memory. Certificate course in C++ is a certification course that is of few months to one year length. This is a basic course that aims at providing basic information and skills of C++ language to the scholars"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "03",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Microsoft Word",
+        "author": {
+            "name": "Prattay Dhar"
+        },
+        "image_url": "https://www.filepicker.io/api/file/5mS4xUp0QmWAkhgkoEZ7",
+        "details": "The course will take about 9 hours to complete, plus will you need additional time to test yourselves to ensure that you have learned the necessary skills. You should take this course if: you want to learn more about Microsoft Word, or. you want to become a certified Microsoft Office Specialist."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "03",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Microsoft Excel",
+        "author": {
+            "name": "Arnab Dhar"
+        },
+        "image_url": "https://static1.shine.com/l/m/images/blog/excel_ms.png",
+        "details": "Microsoft offers free Excel classes online on edX to learn both fundamental and advanced Excel skills. Introduction to Data Analysis using Excel is a 4-week, self-paced online course perfect for learners with little or no prior experience using the software"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "03",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Microsoft Powerpoint",
+        "author": {
+            "name": "Monisha Asha"
+        },
+        "image_url": "https://www.presentationpoint.com/wp-content/uploads/2018/12/powerpoint-2019.jpg",
+        "details": "Getting Started with PowerPoint Get to know the PowerPoint interface. Understanding OneDrive Learn all about working with your Microsoft account and OneDrive. Creating and Opening Presentations Learn all about creating and opening presentations."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Public Speaking",
+        "author": {
+            "name": "Mehadi Anondo"
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7JqBeM0J_JGiz_9mJ5PyuBQXzbXxKav5bc2WEp_RuhFUFb3btjzAtCQE3uZpqHh5VKoA&usqp=CAU",
+        "details": "The skill of public speaking is often considered very hard because of the internal and externals pressures that float over us such as our self-efficacy, judgments of others, the physiology of our body when perceiving a new stimulus, lack of confidence, and a mix of emotions such as fear and apprehensions."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Business Management",
+        "author": {
+            "name": "Pranta Karmaker"
+        },
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH2f35Rpx4bhB9hZe4FmZepToXrdvlltG1EMayJBxRMw8qoyE6-BbQB8dmc6jMFmFVCo&usqp=CAU",
+        "details": "Studying for a business management degree allows you to develop a broad understanding of business organisations and provides you with subject-specific knowledge in areas such as markets, customers, finance, operations, communication, information technology and business policy and strategy."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Presentation",
+        "author": {
+            "name": "Pritom Basak"
+        },
+        "image_url": "https://www.visme.co/wp-content/themes/visme/images/visme_certified_header.png",
+        "details": "Many believe that good presenters are born, not made. This is simply not true. Sure, some people are more relaxed and comfortable speaking in front of others, but everyone can learn the skills and techniques they need to increase their level of confidence and performance when presenting."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Algorithm",
+        "author": {
+            "name": "Prattay Dhar"
+        },
+        "image_url": "https://algo2.iti.kit.edu/img/content/ae_cycle_AE-1.png",
+        "details": "Math is also necessary to understand algorithms complexity, but you are not going to invent new algorithms, at least in the first few years of programming. What you need to be good at, however, is problem solving."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Data Structure",
+        "author": {
+            "name": "Hasan Chowdhury"
+        },
+        "image_url": "https://qsstudy.com/wp-content/uploads/2019/01/Data-Structure.jpg",
+        "details": "This course investigates abstract data types (ADTs), recursion, algorithms for searching and sorting, and basic algorithm analysis. ADTs to be covered include lists, stacks, queues, priority queues, trees, sets, and dictionaries."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Networking",
+        "author": {
+            "name": "Moni Dhar"
+        },
+        "image_url": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/11/23173232/Networking-Courses.jpg",
+        "details": "Networking is the field of computer science that allows computers to exchange data or information. Data can be exchanged either using cable media or wireless media. Internet is the largest example of computer networking. Also Check: Popular Engineering Courses."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Facebook Marketing",
+        "author": {
+            "name": "Mohon Mowdud"
+        },
+        "image_url": "https://kayrainfotech.com/wp-content/uploads/2022/07/facebook-marketing-course-Delhi-India.jpg",
+        "details": "Facebook marketing course is one of the best for learning Facebook Ads for beginners. By the end of this course, you will learn how to establish an online presence, create engaging posts, build a growing Facebook community, and manage social media accounts efficiently."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Instagram Marketing",
+        "author": {
+            "name": "Sajib Karmaker"
+        },
+        "image_url": "https://learnadoperations.com/wp-content/uploads/2020/09/Insta.jpg",
+        "details": "Instagram Marketing Strategy Course (Hubspot) This free course, Instagram Marketing Strategy Course, covers how to build and implement a successful Instagram marketing strategy and it is aimed at social media marketers, marketing professionals, and content creators."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Linkedin Marketing ",
+        "author": {
+            "name": "Maruf Muzumder"
+        },
+        "image_url": "https://articles.connectnigeria.com/wp-content/uploads/2022/04/LinkedIn-Marketing.jpg",
+        "details": "Are marketing certifications worth it? Yes, a marketing certification proves that you are an expert in your chosen field. A marketing certificate can help you land that next job or big promotion you are hoping for, not to mention help you hone your marketing skills for the real world."
+    }
+]

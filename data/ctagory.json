@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Freelancing Course"
+    },
+    {
+        "id": "02",
+        "name": "Programming Course"
+    },
+    {
+        "id": "03",
+        "name": "Office Course"
+    },
+    {
+        "id": "04",
+        "name": "Skill Course"
+    },
+    {
+        "id": "05",
+        "name": "CSE Course"
+    },
+    {
+        "id": "06",
+        "name": "Marketing Course"
+    }
+]
