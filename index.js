@@ -9,7 +9,7 @@ const cetagory = require('./data/ctagory.json')
 const course = require('./data/courses.json')
 
 app.get('/', (req, res) => {
-    res.send('Hasan bolda')
+    res.send('Server Ready')
 })
 app.get('/course-cetagory', (req, res) => {
     res.send(cetagory)
