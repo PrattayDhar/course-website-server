@@ -1,26 +1,32 @@
 [
     {
         "id": "01",
-        "name": "Freelancing Course"
+        "name": "Freelancing Course",
+        "image_url":"https://joblinko.com/wp-content/uploads/2019/07/Freelancing-courses-blog-post-feature.jpg"
     },
     {
         "id": "02",
-        "name": "Programming Course"
+        "name": "Programming Course",
+        "image_url": "https://contentstatic.techgig.com/thumb/msid-83917704,width-460,resizemode-4/5-Free-online-programming-courses-for-beginners.jpg?41177"
     },
     {
         "id": "03",
-        "name": "Office Course"
+        "name": "Office Course",
+        "image_url": "https://skillscouter.com/wp-content/uploads/2020/08/Best-Online-Microsoft-Office-Courses-Classes.jpg"
     },
     {
         "id": "04",
-        "name": "Skill Course"
+        "name": "Skill Course",
+        "image_url": "https://isdfservices.org/storage/course/shqf9G21OnqsiocYByNR20DPvPKMc6XccGKp5DHC.png"
     },
     {
         "id": "05",
-        "name": "CSE Course"
+        "name": "CSE Course",
+        "image_url": "https://uploads.sarvgyan.com/2014/06/cse-image.jpg"
     },
     {
         "id": "06",
-        "name": "Marketing Course"
+        "name": "Marketing Course",
+        "image_url": "https://www.infidigit.com/wp-content/uploads/2020/07/Digital-Marketing.png"
     }
 ]
