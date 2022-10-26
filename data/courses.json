@@ -8,6 +8,7 @@
         },
         "total_view": 488,
         "title": "Web Development",
+        "price": "20$",
         "author": {
             "name": "Hasan Chowdhury"
         },
@@ -23,6 +24,8 @@
         },
         "total_view": 488,
         "title": "Digital Marketing",
+        "price": "20$",
+        
         "author": {
             "name": "Himangshu Ratan Basak"
         },
@@ -38,6 +41,7 @@
         },
         "total_view": 488,
         "title": "Graphics Design",
+        "price": "30$",
         "author": {
             "name": "Wafia Mim"
         },
@@ -53,6 +57,7 @@
         },
         "total_view": 488,
         "title": "Python",
+        "price": "40$",
         "author": {
             "name": "Shimul Dey"
         },
@@ -68,6 +73,7 @@
         },
         "total_view": 488,
         "title": "Java",
+        "price": "20$",
         "author": {
             "name": "Shithi Saha"
         },
@@ -83,6 +89,7 @@
         },
         "total_view": 488,
         "title": "C++",
+        "price": "23$",
         "author": {
             "name": "Mehadi Hasan"
         },
@@ -98,6 +105,7 @@
         },
         "total_view": 488,
         "title": "Microsoft Word",
+        "price": "10$",
         "author": {
             "name": "Prattay Dhar"
         },
@@ -113,6 +121,7 @@
         },
         "total_view": 488,
         "title": "Microsoft Excel",
+        "price": "20$",
         "author": {
             "name": "Arnab Dhar"
         },
@@ -128,6 +137,7 @@
         },
         "total_view": 488,
         "title": "Microsoft Powerpoint",
+        "price": "10$",
         "author": {
             "name": "Monisha Asha"
         },
@@ -143,6 +153,7 @@
         },
         "total_view": 488,
         "title": "Public Speaking",
+        "price": "20$",
         "author": {
             "name": "Mehadi Anondo"
         },
@@ -158,6 +169,7 @@
         },
         "total_view": 488,
         "title": "Business Management",
+        "price": "20$",
         "author": {
             "name": "Pranta Karmaker"
         },
@@ -173,6 +185,7 @@
         },
         "total_view": 488,
         "title": "Presentation",
+        "price": "30$",
         "author": {
             "name": "Pritom Basak"
         },
@@ -188,6 +201,7 @@
         },
         "total_view": 488,
         "title": "Algorithm",
+        "price": "60$",
         "author": {
             "name": "Prattay Dhar"
         },
@@ -203,6 +217,7 @@
         },
         "total_view": 488,
         "title": "Data Structure",
+        "price": "80$",
         "author": {
             "name": "Hasan Chowdhury"
         },
@@ -218,6 +233,7 @@
         },
         "total_view": 488,
         "title": "Networking",
+        "price": "20$",
         "author": {
             "name": "Moni Dhar"
         },
@@ -233,6 +249,7 @@
         },
         "total_view": 488,
         "title": "Facebook Marketing",
+        "price": "10$",
         "author": {
             "name": "Mohon Mowdud"
         },
@@ -248,6 +265,7 @@
         },
         "total_view": 488,
         "title": "Instagram Marketing",
+        "price": "20$",
         "author": {
             "name": "Sajib Karmaker"
         },
@@ -263,6 +281,7 @@
         },
         "total_view": 488,
         "title": "Linkedin Marketing ",
+        "price": "20$",
         "author": {
             "name": "Maruf Muzumd"
         },
